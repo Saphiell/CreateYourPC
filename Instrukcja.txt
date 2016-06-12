@@ -1,0 +1,9 @@
+Witam, Jak sie poruszaæ po moim projekcie? To proste!
+Pierw wczytujemy interesuj¹cy nas plik(Tutaj Elements.xml) 
+Mo¿emy zmieniaæ zawartoœæ pliku.
+S¹ dwie tabele, jedna zawiera zawartoœæ pliku, druga wypisuje zaœ elementy na które nas staæ.
+O co chodzi, otó¿ podane jest by wpisaæ kwote któr¹ operujemy(np.2.500 tyœ)
+PRzypisujemy wagi dla ka¿dego elementu(wa¿ne by sumowa³y sie do jedynki)
+Im wy¿sza waga tym lepszy sprzêt wynajdzie
+I w sumie to tyle
+Pozdrawiam :)

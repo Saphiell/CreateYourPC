@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPickElements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PickElements>
+    <Model>MSI Radeon R9 380</Model>
+    <Price>959</Price>
+    <Grade>4.69</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI Radeon R7 370</Model>
+    <Price>609</Price>
+    <Grade>4.78</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI GeForce CUDA GTX950</Model>
+    <Price>700</Price>
+    <Grade>4.94</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI GeForce GTX960</Model>
+    <Price>899</Price>
+    <Grade>4.69</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Asus GeForce GTX970 Strix</Model>
+    <Price>1505</Price>
+    <Grade>4.81</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Gigabyte GeForce GTX960 </Model>
+    <Price>939</Price>
+    <Grade>4.72</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Zotac GeForce GTX970 </Model>
+    <Price>1409</Price>
+    <Grade>4.79</Grade>
+    <PCElement>Karta_Graficzna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Intel Pentium G3260</Model>
+    <Price>245</Price>
+    <Grade>4.68</Grade>
+    <PCElement>Procesor</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>AMD FX-6300</Model>
+    <Price>442.17</Price>
+    <Grade>4.67</Grade>
+    <PCElement>Procesor</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Intel Core i3-4170</Model>
+    <Price>499</Price>
+    <Grade>4.81</Grade>
+    <PCElement>Procesor</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Intel Core i5-4460</Model>
+    <Price>809</Price>
+    <Grade>4.85</Grade>
+    <PCElement>Procesor</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Corsair Vengeance LPX 2x8GB DDR4</Model>
+    <Price>349</Price>
+    <Grade>4.8</Grade>
+    <PCElement>Ram</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Crucial Ballistix Sport 2x8GB DDR4</Model>
+    <Price>289</Price>
+    <Grade>4.06</Grade>
+    <PCElement>Ram</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Crucial Ballistix Sport 2x4GB DDR4</Model>
+    <Price>159</Price>
+    <Grade>4.5</Grade>
+    <PCElement>Ram</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Kingston HyperX FURY 2x8GB DDR4</Model>
+    <Price>289</Price>
+    <Grade>4.72</Grade>
+    <PCElement>Ram</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>G.Skill Ripjaws V 2x8GB DDR4</Model>
+    <Price>379</Price>
+    <Grade>4.92</Grade>
+    <PCElement>Ram</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI B150 GAMING M3</Model>
+    <Price>459</Price>
+    <Grade>4.36</Grade>
+    <PCElement>Plyta_Glowna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI Z170A </Model>
+    <Price>639</Price>
+    <Grade>4.67</Grade>
+    <PCElement>Plyta_Glowna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>Gigabyte GA-H81M-S2H</Model>
+    <Price>195</Price>
+    <Grade>4.4</Grade>
+    <PCElement>Plyta_Glowna</PCElement>
+  </PickElements>
+  <PickElements>
+    <Model>MSI H110M PRO-VD</Model>
+    <Price>229</Price>
+    <Grade>4.39</Grade>
+    <PCElement>Plyta_Glowna</PCElement>
+  </PickElements>
+</ArrayOfPickElements>
